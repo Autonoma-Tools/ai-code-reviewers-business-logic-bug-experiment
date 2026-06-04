@@ -1,0 +1,12 @@
+{
+  "name": "ai-code-reviewers-business-logic-bug-experiment",
+  "version": "0.1.0",
+  "description": "A billing module with two deliberately planted bugs for reproducing the Autonoma AI code reviewer experiment.",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/billing.js",
+    "test": "node test/billing.test.js",
+    "verify-bug": "node examples/verify-50-seat-bug.js"
+  },
+  "dependencies": {}
+}
