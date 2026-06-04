@@ -1,9 +1,0 @@
-{
-  "version": 1,
-  "slug": "ai-code-reviewers-business-logic-bug-experiment",
-  "step": "deps_written",
-  "completed_specs": ["billing-module-planted-bugs"],
-  "pending_specs": [],
-  "created_at": "2026-06-04T00:00:00Z",
-  "updated_at": "2026-06-04T00:00:01Z"
-}
